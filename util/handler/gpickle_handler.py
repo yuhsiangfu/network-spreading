@@ -27,5 +27,5 @@ def write_gpickle_file(G, file_path):
     try:
         nx.write_gpickle(G, file_path)
     except:
-        print('[Error] The file can not be writed ...')
+        print('[Error] The file can not be written ...')
         print('[Error] Please check this: ' + str(file_path))
