@@ -34,5 +34,5 @@ def write_edgelist(G, file_path):
     try:
         nx.write_edgelist(G, path=file_path, data=False)
     except:
-        print('[Error] The file can not be writed ...')
+        print('[Error] The file can not be written ...')
         print('[Error] Please check this file:  ' + str(file_path))
