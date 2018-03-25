@@ -27,5 +27,5 @@ def write_pickle_file(data, file_path):
     try:
         pickle.dump(data, open(file_path, 'wb'))
     except:
-        print('[Error] The file can not be writed ...')
+        print('[Error] The file can not be written ...')
         print('[Error] Please check this: ' + str(file_path))
