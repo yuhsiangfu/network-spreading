@@ -8,7 +8,7 @@ In this code, it will generate four theoretical networks, but only three of them
 In this code, the network-spreading will be simulated on the three networks using susceptible–infective–recovered (SIR) model.<br />
 
 ## Network-Spreading Results Visualization
-In this code, the network-spreading results of the three networks will visualized in a curve figure.<br />
+In this code, the network-spreading results of the three networks will be visualized in a curve figure.<br />
 
 # Contact
 1.If you have any questions please email to yuhisnag.fu@gmail.com.<br />
