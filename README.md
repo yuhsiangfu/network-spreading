@@ -2,7 +2,7 @@
 Simulate the network-spreading on three theoretical networks including a random, a scale-free network and a small-world network.
 
 ## Theoretical Network Generator
-In this code, it will generate four theoretical networks, but only three of them (e.g., a random network, a scale-free network and a small-world network) will be used for simulation,.
+In this code, it will generate four theoretical networks, but only three of them (e.g., a random network, a scale-free network and a small-world network) will be used for simulation.
 
 ## Network Spreading
 In this code, the network-spreading will be simulated on the three networks using susceptible–infective–recovered (SIR) model .<br />
